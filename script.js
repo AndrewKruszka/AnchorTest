@@ -93,7 +93,7 @@ for (var item in available_models) {
   model_select.add(option);
 }
 
-var current_model_name = "microsoft-coco";
+var current_model_name = "anchored-reality";
 const API_KEY = "rf_cmx7eGjwNDbEUF9B8UITkBIGORH2";
 const DETECT_API_KEY = "4l5zOVomQmkAqlTJPVKN";
 const CAMERA_ACCESS_URL =
